@@ -28,9 +28,9 @@ font = ""
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
 font_size = "L"
 
-############################
+#############################
 ## Basic Info
-############################
+#############################
 
 # Website type
 #   Improve how search engines understand your site.
